@@ -175,7 +175,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>4.2.5.RELEASE</version>
+      <version>5.3.18</version>
     </dependency>
     <!--防止可能servlet或者jsp-api的jar包冲突，导入一下代替JSTL的jar包-->
     <dependency>
